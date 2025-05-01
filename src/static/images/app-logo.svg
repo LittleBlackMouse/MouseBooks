@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none">
+  <!-- 背景圆形 -->
+  <circle cx="100" cy="100" r="90" fill="url(#paint0_linear)" />
+  
+  <!-- 内圈白色环 -->
+  <circle cx="100" cy="100" r="78" fill="white" fill-opacity="0.2" stroke="white" stroke-width="2" />
+  
+  <!-- 小鼠头部 -->
+  <circle cx="100" cy="105" r="50" fill="white" />
+  
+  <!-- 耳朵 -->
+  <path d="M70 70C60 50 42 55 35 65C28 75 32 90 45 95C58 100 65 85 70 70Z" fill="white" />
+  <path d="M130 70C140 50 158 55 165 65C172 75 168 90 155 95C142 100 135 85 130 70Z" fill="white" />
+  
+  <!-- 耳朵内部 -->
+  <path d="M67 72C60 57 47 60 42 67C37 74 40 85 48 88C56 91 62 82 67 72Z" fill="#FFE8F0" />
+  <path d="M133 72C140 57 153 60 158 67C163 74 160 85 152 88C144 91 138 82 133 72Z" fill="#FFE8F0" />
+  
+  <!-- 眼睛 -->
+  <circle cx="85" cy="95" r="6" fill="#333333" />
+  <circle cx="115" cy="95" r="6" fill="#333333" />
+  
+  <!-- 眼睛亮点 -->
+  <circle cx="83" cy="93" r="2" fill="white" />
+  <circle cx="113" cy="93" r="2" fill="white" />
+  
+  <!-- 鼻子 -->
+  <ellipse cx="100" cy="105" rx="6" ry="4" fill="#FF6B6B" />
+  
+  <!-- 嘴巴 - 微笑线 -->
+  <path d="M85 115C90 125 110 125 115 115" stroke="#333333" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- 胡须 -->
+  <path d="M94 105L75 100" stroke="#333333" stroke-linecap="round" />
+  <path d="M94 107L75 110" stroke="#333333" stroke-linecap="round" />
+  <path d="M106 105L125 100" stroke="#333333" stroke-linecap="round" />
+  <path d="M106 107L125 110" stroke="#333333" stroke-linecap="round" />
+  
+  <!-- 钱币 -->
+  <circle cx="100" cy="143" r="25" fill="#FFD700" stroke="#333333" stroke-width="2" />
+  <text x="100" y="153" text-anchor="middle" font-size="32" font-weight="bold" fill="#333333">¥</text>
+  
+  <!-- 小手抱着钱币 -->
+  <path d="M70 130C60 125 55 130 53 140" stroke="white" stroke-width="5" stroke-linecap="round" />
+  <path d="M130 130C140 125 145 130 147 140" stroke="white" stroke-width="5" stroke-linecap="round" />
+  
+  <!-- 描边 -->
+  <circle cx="100" cy="100" r="90" stroke="white" stroke-width="2" stroke-opacity="0.5" />
+  
+  <!-- 光晕效果 -->
+  <circle cx="70" cy="70" r="10" fill="white" fill-opacity="0.3" />
+  <circle cx="140" cy="80" r="5" fill="white" fill-opacity="0.3" />
+  
+  <!-- 渐变定义 -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="30" y1="30" x2="170" y2="170" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1890FF" />
+      <stop offset="0.5" stop-color="#1890FF" />
+      <stop offset="1" stop-color="#36CFC9" />
+    </linearGradient>
+  </defs>
+</svg> 

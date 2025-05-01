@@ -1,0 +1,10 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1920" fill="#F5F7FA"/>
+  <rect x="290" y="710" width="500" height="500" rx="125" fill="#1890FF"/>
+  <circle cx="540" cy="960" r="175" fill="white" fill-opacity="0.9"/>
+  <path d="M477.5 1035C477.5 1035 502.5 1010 540 1010C577.5 1010 602.5 1035 602.5 1035" stroke="#1890FF" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="465" cy="922.5" r="25" fill="#1890FF"/>
+  <circle cx="615" cy="922.5" r="25" fill="#1890FF"/>
+  <path d="M540 897.5C515 835 465 860 465 872.5C465 885 490 897.5 540 897.5C590 897.5 615 885 615 872.5C615 860 565 835 540 897.5Z" fill="#1890FF"/>
+  <text x="540" y="1300" font-family="Arial" font-size="70" font-weight="bold" fill="#1890FF" text-anchor="middle">小鼠记账</text>
+</svg> 

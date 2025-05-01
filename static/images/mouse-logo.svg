@@ -1,0 +1,36 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆形 -->
+  <circle cx="100" cy="100" r="90" fill="#4DB6AC"/>
+  
+  <!-- 老鼠身体 -->
+  <ellipse cx="100" cy="120" rx="50" ry="40" fill="#E0E0E0"/>
+  
+  <!-- 老鼠头部 -->
+  <circle cx="100" cy="80" r="40" fill="#E0E0E0"/>
+  
+  <!-- 耳朵 -->
+  <circle cx="70" cy="55" r="15" fill="#E0E0E0"/>
+  <circle cx="130" cy="55" r="15" fill="#E0E0E0"/>
+  <circle cx="70" cy="55" r="8" fill="#FFCDD2"/>
+  <circle cx="130" cy="55" r="8" fill="#FFCDD2"/>
+  
+  <!-- 眼睛 -->
+  <circle cx="85" cy="75" r="5" fill="#424242"/>
+  <circle cx="115" cy="75" r="5" fill="#424242"/>
+  
+  <!-- 鼻子 -->
+  <circle cx="100" cy="85" r="5" fill="#F48FB1"/>
+  
+  <!-- 胡须 -->
+  <line x1="95" y1="90" x2="70" y2="95" stroke="#757575" stroke-width="2"/>
+  <line x1="95" y1="90" x2="70" y2="85" stroke="#757575" stroke-width="2"/>
+  <line x1="105" y1="90" x2="130" y2="95" stroke="#757575" stroke-width="2"/>
+  <line x1="105" y1="90" x2="130" y2="85" stroke="#757575" stroke-width="2"/>
+  
+  <!-- 尾巴 -->
+  <path d="M150 120C170 100 180 120 170 140" stroke="#BDBDBD" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- 钱币图标 -->
+  <circle cx="100" cy="140" r="15" fill="#FFEB3B" stroke="#FBC02D" stroke-width="2"/>
+  <text x="97" y="145" font-family="Arial" font-size="14" font-weight="bold" fill="#FBC02D">$</text>
+</svg> 
